@@ -1,0 +1,6 @@
+com\rbac\gateway\ApiGatewayApplication.class
+com\rbac\gateway\filter\JwtFilter$Config.class
+com\rbac\gateway\config\GatewayConfig.class
+com\rbac\gateway\config\WebClientConfig.class
+com\rbac\gateway\filter\JwtFilter.class
+com\rbac\gateway\util\JwtUtil.class
