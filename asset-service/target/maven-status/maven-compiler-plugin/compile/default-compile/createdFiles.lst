@@ -1,0 +1,6 @@
+com\rbac\asset\AssetServiceApplication.class
+com\rbac\asset\repository\AssetRepository.class
+com\rbac\asset\entity\Asset.class
+com\rbac\asset\service\AssetService.class
+com\rbac\asset\controller\AssetController.class
+com\rbac\asset\service\AssetServiceImpl.class
