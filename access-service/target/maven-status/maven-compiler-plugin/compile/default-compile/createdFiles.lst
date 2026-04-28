@@ -1,0 +1,11 @@
+com\rbac\access\repository\AccessRequestRepository.class
+com\rbac\access\entity\Grant.class
+com\rbac\access\AccessServiceApplication.class
+com\rbac\access\service\AccessService.class
+com\rbac\access\controller\AccessController.class
+com\rbac\access\service\AccessServiceImpl.class
+com\rbac\access\repository\AccessRuleRepository.class
+com\rbac\access\dto\AccessRequest.class
+com\rbac\access\entity\AccessRequestEntity.class
+com\rbac\access\entity\AccessRule.class
+com\rbac\access\repository\GrantRepository.class
